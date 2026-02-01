@@ -1,0 +1,4 @@
+Minimalism is power.
+# Only the essentials for the machine
+ffmpeg-python
+(Note: Ensure FFmpeg is in the system PATH. We don't hold hands here.)
